@@ -1,9 +1,10 @@
 Paper: Theory and Implementation of Linear regression
 Author : mengyu huang
 
-
+Case: Earning of a food Truck and population size of a city where the food truck sells it food
          
 ############################################################################################
 Day 1: 
 
-      Linear regression : 
+      Linear regression : A mathematical techniques to fit the given  data into a function of certain type. which is a straight line
+      
