@@ -1,0 +1,9 @@
+Paper: Theory and Implementation of Linear regression
+Author : mengyu huang
+
+
+         
+############################################################################################
+Day 1: 
+
+      Linear regression : 
